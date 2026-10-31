@@ -38,16 +38,16 @@ Les jeux indiqués comme "core" sont les jeux directement implémentés dans l'i
 ### Installation du launcher Archipelago
 Le launcher Archipelago est un ensemble d'utilitaires permettant de générer, host et se connecter aux multiworlds, éditer les YAML, lancer des outils de visualisation pendant les runs, etc.
 
-Lien du guide officiel : https://archipelago.gg/tutorial/Archipelago/setup_en
+[Guide officiel](https://archipelago.gg/tutorial/Archipelago/setup_en)
 
-- Aller sur https://github.com/ArchipelagoMW/Archipelago/releases/tag/0.6.8
+- Aller sur la [page des realease](https://github.com/ArchipelagoMW/Archipelago/releases/tag/0.6.8)
 - Descendre tout en bas de la page et télécharger le Setup.Archipelago.X.X.X.exe
 - Lancer l'exécutable et installer le launcher comme un programme classique
 
 Le launcher contient plein d'éléments, mais les plus importants sont :
 - **Install APWorld** : permet d'installer des outils supplémentaires et des jeux customs
 - **Generate Template Options** : créer des fichiers d'options YAML par défaut pour tous les jeux installés
-- **Text Client** : ouvrir une fenêtre textuelle qui permet de se connecter au serveur via un slot. Il affiche les événements qui se produisent pendant la partie (par exemple : *Joueur1* a envoyé *item* à *Joueur2*) et permet de lancer des commandes (listes des commandes : https://archipelago.gg/tutorial/Archipelago/commands_en)
+- **Text Client** : ouvrir une fenêtre textuelle qui permet de se connecter au serveur via un slot. Il affiche les événements qui se produisent pendant la partie (par exemple : *Joueur1* a envoyé *item* à *Joueur2*) et permet de lancer des commandes ([listes des commandes](https://archipelago.gg/tutorial/Archipelago/commands_en))
 
 Et pour gérer les multiworlds : 
 - Generate : Génère un multiworld à partir des YAMLs

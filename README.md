@@ -1,12 +1,9 @@
 # Guide d'installation Archipelago
 
-Site officiel : https://archipelago.gg/
-
-Discord principal : https://discord.gg/YN34tHmGGG
-
-Discord secondaire : https://discord.gg/VQkMugneDk
-
-Liste des jeux supportés : https://docs.google.com/spreadsheets/d/1iuzDTOAvdoNe8Ne8i461qGNucg5OuEoF-Ikqs8aUQZw/edit?gid=1086876441#gid=1086876441  
+Site officiel : https://archipelago.gg/ \
+Discord principal : https://discord.gg/YN34tHmGGG \
+Discord secondaire : https://discord.gg/VQkMugneDk \
+Liste des jeux supportés : https://docs.google.com/spreadsheets/d/1iuzDTOAvdoNe8Ne8i461qGNucg5OuEoF-Ikqs8aUQZw/edit?gid=1086876441#gid=1086876441  \
 
 
 ## Fonctionnement d'Archipelago

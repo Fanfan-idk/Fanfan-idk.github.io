@@ -47,7 +47,7 @@ Le launcher Archipelago est un ensemble d'utilitaires permettant de générer, h
 Le launcher contient plein d'éléments, mais les plus importants sont :
 - **Install APWorld** : permet d'installer des outils supplémentaires et des jeux customs
 - **Generate Template Options** : créer des fichiers d'options YAML par défaut pour tous les jeux installés
-- **Text Client** : ouvrir une fenêtre textuelle qui permet de se connecter au serveur via un slot. Il affiche les événements qui se produisent pendant la partie (par exemple : *Joueur1* a envoyé *item* à *Joueur2*) et permet de lancer des commandes ([listes des commandes](https://archipelago.gg/tutorial/Archipelago/commands_en))
+- **Text Client** : ouvrir une fenêtre textuelle qui permet de se connecter au serveur via un slot. Il affiche les événements qui se produisent pendant la partie (par exemple : *Joueur1* a envoyé *item* à *Joueur2*) et permet de lancer des commandes ([liste des commandes](https://archipelago.gg/tutorial/Archipelago/commands_en))
 
 Et pour gérer les multiworlds : 
 - Generate : Génère un multiworld à partir des YAMLs
